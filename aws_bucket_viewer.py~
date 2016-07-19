@@ -8,12 +8,7 @@ s3 = boto3.resource(
     aws_secret_access_key=sys.argv[2]
 )
 
-#for bucket in s3.buckets.all():
- #      print bucket.name
+bucketList = open(sys.argv[3], 'w')
 
-bucket = s3.Bucket('3kricegenome/nipponbare')
-for obj in bucket.objects.all():
-    print(obj.key)
-
-
-
+for bucket in s3.buckets.all():
+        bucketList.write(bucket.name) + "\n"

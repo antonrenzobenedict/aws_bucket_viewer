@@ -8,7 +8,7 @@
                 <param format="text" name="secret_key" type="text" label="Secret Key" />
         </inputs>
         <outputs>
-                <data format="tabular" name="bucketList" />
+                <data format="txt" name="bucketList" />
         </outputs>
 	<help>
 	       Input the exact access and secret key.
