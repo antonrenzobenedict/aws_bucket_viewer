@@ -1,0 +1,112 @@
+Bucket Name: 3k-ms-data
+3k-bucket-readme.txt Size: 19 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/3k-bucket-readme.txt?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=jDqZEke6MzElqS8QLZoqf2V0agU%3D
+
+5refs-panGenome/core_genome.zip Size: 82856028 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/5refs-panGenome/core_genome.zip?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=Upa4A0y1tss0cA2KtUXYOlE%2FmR0%3D
+
+5refs-panGenome/pan_genome.zip Size: 107977208 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/5refs-panGenome/pan_genome.zip?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=AmA539XOrSwk1Zv93MC3meGDYu8%3D
+
+5refs-panGenome/uniq_genome.zip Size: 21759449 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/5refs-panGenome/uniq_genome.zip?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=%2FF5vEoNljabsFgzdrtxpjJ2pZp4%3D
+
+GWAS-data/3024g_Phenotype_GRLT.GRWD.csv Size: 45267 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/GWAS-data/3024g_Phenotype_GRLT.GRWD.csv?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=uyvJG39x0326KmoPoeVEFDaQLXM%3D
+
+SNP-paper/02-BGI-shenzhen co-authors.docx Size: 19743 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNP-paper/02-BGI-shenzhen%20co-authors.docx?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=BIIs0zWwfW50HidnQG51WJ3dGD0%3D
+
+SNP-paper/DEF_supplemental_sections-v8-MAU.docx Size: 11980000 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNP-paper/DEF_supplemental_sections-v8-MAU.docx?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=A1hDec%2BO8Djbf7l4MQvpYTrvm5k%3D
+
+SNP-paper/IRRI 3K paper author list - ZL-Mau.docx Size: 17685 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNP-paper/IRRI%203K%20paper%20author%20list%20-%20ZL-Mau.docx?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=98ozJuxtFrqj9QJRz%2Bn%2Br3DSKTA%3D
+
+SNP-paper/V8-3kRG-SNP-paper-CLEAN_KLM-RW-merged-Mau-inserts.docx Size: 2535091 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNP-paper/V8-3kRG-SNP-paper-CLEAN_KLM-RW-merged-Mau-inserts.docx?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=3Yo4bq5tTJuvRI7F3Vp3aGAk5Nw%3D
+
+SNPs/9311.bed Size: 3907701255 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/9311.bed?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=TgKPI4eOnHSLtKiodDSj%2BbUlU0A%3D
+
+SNPs/9311.bim Size: 188996159 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/9311.bim?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=uVFFbIFoHcMB4w1QeV6x5WSA%2BT4%3D
+
+SNPs/9311.fam Size: 105752 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/9311.fam?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=OF5vIh3Gp8TO9FaT0kMZJGIK0YA%3D
+
+SNPs/DJ123.bed Size: 29017551 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/DJ123.bed?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=Lp0RR8Z94HQuUcsXS4W%2BOYt%2FpdQ%3D
+
+SNPs/DJ123.bim Size: 1513185 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/DJ123.bim?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=q0RefC%2BkYyIRmZkQF2V4Jp04o5E%3D
+
+SNPs/DJ123.fam Size: 105712 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/DJ123.fam?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=%2BN1OBCfhFO6jqBPHcBBnd1S2cEk%3D
+
+SNPs/IR64_new.bed Size: 117748515 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/IR64_new.bed?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=ozGYhgYxGZhlSqdVmaAb3v4j8UA%3D
+
+SNPs/IR64_new.bim Size: 5575919 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/IR64_new.bim?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=rvCwWkdZwPHAHHE%2FGOZCWxES9BY%3D
+
+SNPs/IR64_new.fam Size: 105752 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/IR64_new.fam?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=M8M7B4s%2BEP6uezB0281IIzrMp5w%3D
+
+SNPs/Kasalath.bed Size: 3254634435 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/Kasalath.bed?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=SIgohNdlnkgovvOqMCrjpyu8Ugc%3D
+
+SNPs/Kasalath.bim Size: 152632928 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/Kasalath.bim?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=Aj%2FO2Ify8xBasNZDJNsh3Nq%2FnBo%3D
+
+SNPs/Kasalath.fam Size: 105752 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SNPs/Kasalath.fam?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=28ussnrmsdJMNhMc5Qg9JuQ4jRk%3D
+
+SV/01.SVcomparedwithIRGSP-1.0.tar.gz Size: 752545935 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SV/01.SVcomparedwithIRGSP-1.0.tar.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=CNyje%2FluAU5c4xpCqY%2BEjDfGDF8%3D
+
+SV/02.SVcomparedwith9311.tar.gz Size: 502409030 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SV/02.SVcomparedwith9311.tar.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=KmMCzql6y7tAvdM1kr0fzB%2BvYLA%3D
+
+SV/03.coreSVtable.comparedWithIRGSP-1.0.gz Size: 15229475 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SV/03.coreSVtable.comparedWithIRGSP-1.0.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=FO6PTb6vdQuwDwYK%2BW3LTqGcz3Q%3D
+
+SV/04.coreSVtable.comparedWith9311.gz Size: 10950830 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/SV/04.coreSVtable.comparedWith9311.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=W4%2BI55dNMl4IE8VJF6Aujm1EqZI%3D
+
+panGenome/3KRice-panData.tar.gz Size: 229737188 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/panGenome/3KRice-panData.tar.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=kcpHjXxq4OtxGvdVTPuSnuv3BiY%3D
+
+panGenome/The Population Genomic Structure of the Asian Cultivated Rice version1.docx Size: 10547264 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/panGenome/The%20Population%20Genomic%20Structure%20of%20the%20Asian%20Cultivated%20Rice%20version1.docx?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=UCrFOH3xoMXet%2BkP%2Bg3Gd439Snc%3D
+
+top10/IRIS_313-11669_gc.scafSeq.gz Size: 111216515 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-11669_gc.scafSeq.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=FKscwDBXtlAlbGdXapMTA4K3nPY%3D
+
+top10/IRIS_313-11671_gc.scafSeq.gz Size: 100645860 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-11671_gc.scafSeq.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=JAvFXlhfoOQcFot2B3xaP3t%2FoOw%3D
+
+top10/IRIS_313-11723_gc.scafSeq.gz Size: 100254391 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-11723_gc.scafSeq.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=dTvoaAg6WA%2BpZpsZw0TEVruXzHQ%3D
+
+top10/IRIS_313-11796_gc.scafSeq.gz Size: 99346154 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-11796_gc.scafSeq.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=T%2BoAQE9Iad%2FkXMQtRmOICVY8lkk%3D
+
+top10/IRIS_313-11800-k47.scafSeq.gapclosed.gz Size: 98442237 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-11800-k47.scafSeq.gapclosed.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=c0V%2B8WxceRTR9vAb3lnWx%2BpB4nE%3D
+
+top10/IRIS_313-11801-k49.scafSeq.gapclosed.gz Size: 99801239 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-11801-k49.scafSeq.gapclosed.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=rAk5wBr3sJuGoTNslQQDvxBkRy8%3D
+
+top10/IRIS_313-11802-k49.scafSeq.gapclosed.gz Size: 100810642 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-11802-k49.scafSeq.gapclosed.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=uPpeHtczFt%2F0g6mSQnz6AKFkfgA%3D
+
+top10/IRIS_313-11812_gc.scafSeq.gz Size: 99502496 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-11812_gc.scafSeq.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=S6g%2Bam5A1TkT%2FUkaFmpCL6Upknk%3D
+
+top10/IRIS_313-11924_gc.scafSeq.gz Size: 106032752 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-11924_gc.scafSeq.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=0dxatOo2jfuGU2bGtGCBH9j0S1U%3D
+
+top10/IRIS_313-8326_gc.scafSeq.gz Size: 98304235 Bytes
+	|->URL: https://3k-ms-data.s3.amazonaws.com/top10/IRIS_313-8326_gc.scafSeq.gz?AWSAccessKeyId=AKIAIPNWB4LUZOBLGEIA&Expires=1468995235&Signature=N5fEVmKeU4xOeTDCQFUihgC5cos%3D
+
