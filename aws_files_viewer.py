@@ -14,11 +14,13 @@ s3Client = boto3.client(
 )
 bucket = s3.Bucket(sys.argv[3])
 
-fileList = open(sys.argv[4], 'w')
+fileList = open(sys.argv[4], 'w') # opens the file for writing
+
+fileList.write("Links generated are valid only for 86400 seconds, if it is expired just generate a new one by running the task again.\n")
 
 fileList.write("Bucket Name: " + sys.argv[3] + "\n")
 for obj in bucket.objects.all():
-        if obj.size > 8:
-                url = s3Client.generate_presigned_url('get_object', Params = { 'Bucket': sys.argv[3], 'Key': obj.key, }, ExpiresIn = 86400, )
-                fileList.write(obj.key + " " + "Size: " + str(obj.size) + " Bytes" + "\n\t|->URL: " + url + "\n\n")
+        if obj.size > 8: #generate url only for downloadable files
+                url = s3Client.generate_presigned_url('get_object', Params = { 'Bucket': sys.argv[3], 'Key': obj.key, }, ExpiresIn = 86400, ) # generate url for downloading
+                fileList.write(obj.key + " " + "Size: " + str(obj.size) + " Bytes" + "\n\t|->URL: " + url + "\n\n") # writes the files together with its respective URL.
         

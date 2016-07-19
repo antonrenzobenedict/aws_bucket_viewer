@@ -8,7 +8,8 @@ s3 = boto3.resource(
     aws_secret_access_key=sys.argv[2]
 )
 
-bucketList = open(sys.argv[3], 'w')
+bucketList = open(sys.argv[3], 'w') # opens the text file for writing
 
 for bucket in s3.buckets.all():
-        bucketList.write(bucket.name + "\n")
+        bucketList.write(bucket.name + "\n") # writes available buckets to be used
+       

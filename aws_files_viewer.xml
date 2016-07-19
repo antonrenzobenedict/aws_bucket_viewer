@@ -1,7 +1,7 @@
 <tool id="AwsFileViewer" name="AWS Files Viewer">
 	<description> This script will output available files inside the given bucket, given the respective access and secret key. </description>
 	<command interpreter="python">
-	         aws_bucket_viewer.py $access_key $secret_key $bucket $filesList
+	         aws_files_viewer.py $access_key $secret_key $bucket $filesList
  	</command>
  	<inputs>
                 <param format="text" name="access_key" type="text" label="Access Key" />
@@ -13,6 +13,8 @@
         </outputs>
 	<help>
 	       Input the exact access and secret key and make sure the bucket given is valid.
+	       Copy Paste URL to upload file in galaxy.
+	       If link is expired, just generate new ones by running this task again.
 	</help>
 	
 </tool>
