@@ -12,5 +12,6 @@ bucket = s3.Bucket(sys.argv[3])
 
 fileList = open(sys.argv[4], 'w')
 
+fileList.write(sys.argv[3] + "\n")
 for obj in bucket.objects.all():
-        fileList.write(obj + "\n")
+        fileList.write(obj.key + "\n")
