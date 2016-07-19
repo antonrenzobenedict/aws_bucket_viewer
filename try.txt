@@ -1,0 +1,45 @@
+3k-ms-data
+3k-bucket-readme.txt
+5refs-panGenome/
+5refs-panGenome/core_genome.zip
+5refs-panGenome/pan_genome.zip
+5refs-panGenome/uniq_genome.zip
+GWAS-data/
+GWAS-data/3024g_Phenotype_GRLT.GRWD.csv
+SNP-paper/
+SNP-paper/02-BGI-shenzhen co-authors.docx
+SNP-paper/DEF_supplemental_sections-v8-MAU.docx
+SNP-paper/IRRI 3K paper author list - ZL-Mau.docx
+SNP-paper/V8-3kRG-SNP-paper-CLEAN_KLM-RW-merged-Mau-inserts.docx
+SNPs/
+SNPs/9311.bed
+SNPs/9311.bim
+SNPs/9311.fam
+SNPs/DJ123.bed
+SNPs/DJ123.bim
+SNPs/DJ123.fam
+SNPs/IR64_new.bed
+SNPs/IR64_new.bim
+SNPs/IR64_new.fam
+SNPs/Kasalath.bed
+SNPs/Kasalath.bim
+SNPs/Kasalath.fam
+SV/
+SV/01.SVcomparedwithIRGSP-1.0.tar.gz
+SV/02.SVcomparedwith9311.tar.gz
+SV/03.coreSVtable.comparedWithIRGSP-1.0.gz
+SV/04.coreSVtable.comparedWith9311.gz
+panGenome/
+panGenome/3KRice-panData.tar.gz
+panGenome/The Population Genomic Structure of the Asian Cultivated Rice version1.docx
+top10/
+top10/IRIS_313-11669_gc.scafSeq.gz
+top10/IRIS_313-11671_gc.scafSeq.gz
+top10/IRIS_313-11723_gc.scafSeq.gz
+top10/IRIS_313-11796_gc.scafSeq.gz
+top10/IRIS_313-11800-k47.scafSeq.gapclosed.gz
+top10/IRIS_313-11801-k49.scafSeq.gapclosed.gz
+top10/IRIS_313-11802-k49.scafSeq.gapclosed.gz
+top10/IRIS_313-11812_gc.scafSeq.gz
+top10/IRIS_313-11924_gc.scafSeq.gz
+top10/IRIS_313-8326_gc.scafSeq.gz
